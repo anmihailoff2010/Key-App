@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ключ</string>
+    <string name="login">Войти</string>
+    <string name="username">Имя пользователя</string>
+    <string name="password">Пароль</string>
+    <string name="invalid_credentials">Неверные учетные данные</string>
+    <string name="register">Регистрация</string>
+    <string name="selected_key">Выбранный ключ</string>
+    <string name="read_key">Считать ключ</string>
+    <string name="open_lock">Открыть замок</string>
+    <string name="key_not_found">Ключ не найден</string>
+    <string name="lock_opened">Замок открыт</string>
+    <string name="lock_open_failed">Не удалось открыть замок</string>
+    <string name="read_nfc_key">Поднесите метку NFC, чтобы прочитать ключ</string>
+    <string name="delete_key">Удалить</string>
+    <string name="service_name">NFC Service</string>
+    <string name="aid_group_description">KeyApp AID Group</string>
+</resources>
